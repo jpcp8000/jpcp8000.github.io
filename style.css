@@ -1,0 +1,73 @@
+* {padding: 0;margin: 0;}
+
+#wrapper{
+  padding: 5px;
+  width: auto;
+  height: 100vh;
+  background-image: url('img1.jpg');
+  background-size: cover;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+#banner{
+	align-items:center;
+}
+
+.textheader{
+    float: left;
+    width: 34%;
+    color: antiquewhite;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 40pt;
+    text-shadow: 2px 2px grey;
+    text-align: center;
+}
+
+.topnav{
+  float: left;
+  width: 66%;
+  height: auto;
+  
+}
+.topnav a{
+	display: inline-block;
+	text-decoration: none;
+	color:antiquewhite;
+	font-family: 'Advent Pro', sans-serif;
+	font-size: 41.9px;
+	text-align: center;
+	padding-top: 10px;
+}
+.topnav a:hover{
+	color: black;
+}
+
+
+#righttext{
+  float: none;
+  width: 80%;
+  padding-top: 20px;
+  color: darkslategray;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+  position:;
+}
+
+#description{
+	  float: left;
+  width: 20%;
+  padding-top: 2px;
+  color: darkslategray;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+#pictures
+{
+	float: right;
+	width:20%
+		
+}
+
